@@ -84,13 +84,13 @@ Clone this repository to your desired folder:
 - After installing PostgreSQL, create a new database:
 
 ```sh
-  createdb hospital_database
+  createdb hospital-database
 ```
 
 - Then run the following command to create the tables:
 
 ```sh
-  psql -d hospital_database -f schema_based_on_diagram.sql
+  psql -d hospital-database -f schema_based_on_diagram.sql
 ```
 
 ### Usage
@@ -152,7 +152,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mohamedSabry0//issues).
+Feel free to check the [issues page](https://github.com/mohamedSabry0/hospital-database/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
