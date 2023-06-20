@@ -98,7 +98,7 @@ Clone this repository to your desired folder:
 - To access the database, run the following command:
 
 ```sh
-  psql -d hospital_database
+  psql -d hospital-database
 ```
 
 - To view the tables, run the following command:
